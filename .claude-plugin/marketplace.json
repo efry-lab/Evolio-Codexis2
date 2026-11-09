@@ -1,0 +1,13 @@
+{
+  "name": "evolio-efry",
+  "owner": {
+    "name": "efry"
+  },
+  "plugins": [
+    {
+      "name": "evolio",
+      "source": "./",
+      "description": "Ovládání Evolia z Codexis agenta: spisy, subjekty, události, úkoly, pošta, fakturace, paušály, finance, banka, splátky a AML."
+    }
+  ]
+}
